@@ -70,6 +70,8 @@ Coworkは「サンドボックス」という仕組みで動いています。
 
 Coworkがファイルを操作するときは、毎回**確認ダイアログ**が表示されます。
 
+![ファイルアクセス許可ダイアログ](/images/week-01-zenn/screenshot-03.png)
+
 勝手にファイルを削除されることはないので、安心してください。
 
 ## 🧪 非エンジニアの自分が最初にやってみた5つのこと
@@ -79,6 +81,8 @@ Coworkがファイルを操作するときは、毎回**確認ダイアログ**�
 ### ① Claude Desktopをインストール
 
 公式サイト（[https://claude.com/download](https://claude.com/download)）からClaude Desktopアプリをダウンロードします。
+
+![Claude Desktopダウンロードページ](/images/week-01-zenn/screenshot-04.jpg)
 
 **所要時間：** 5分
 
